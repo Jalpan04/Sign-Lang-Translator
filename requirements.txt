@@ -1,0 +1,9 @@
+# Main computer vision and machine learning libraries
+opencv-python==4.9.0.80
+tensorflow==2.15.0
+mediapipe==0.10.11
+numpy==1.26.4
+
+# Critical dependency: Pinned to a specific version to ensure
+# compatibility with mediapipe and tensorflow and avoid the 'GetPrototype' error.
+protobuf==3.20.3
