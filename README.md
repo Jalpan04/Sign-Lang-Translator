@@ -1,5 +1,7 @@
 # Sign-Interpreter: Real-Time ASL Alphabet Recognition
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Sign-Lang-Translator) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Sign-Lang-Translator) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00.svg)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg)](https://opencv.org/)
